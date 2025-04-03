@@ -1,5 +1,12 @@
 # @scalar/api-reference
 
+## 1.28.12
+
+### Patch Changes
+
+- 97c1293: fix: enable sidebar scroll listener
+- 97c1293: fix: references client selector not working with custom client selected
+
 ## 1.28.11
 
 ### Patch Changes
