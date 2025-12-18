@@ -79,7 +79,7 @@
     "plugins": "^0.4.2",
     "postcss": "catalog:",
     "postcss-prefix-selector": "^1.16.0",
-    "storybook": "^8.0.8",
+    "storybook": "^8.6.15",
     "storybook-dark-mode": "^4.0.1",
     "svglint": "^2.7.1",
     "tailwindcss": "catalog:",
