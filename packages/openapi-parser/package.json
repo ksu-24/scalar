@@ -74,7 +74,7 @@
     "@scalar/openapi-types": "workspace:*",
     "@scalar/types": "workspace:*",
     "@types/node": "catalog:",
-    "glob": "^10.3.10",
+    "glob": "^10.5.0",
     "json-to-ast": "^2.1.0",
     "just-diff": "^6.0.2",
     "tinybench": "^2.8.0"
